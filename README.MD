@@ -1,4 +1,4 @@
-# PORTFOLIO
+# Portfolio muudatus
 # 1. Projekt
 - Esimene
 ## Mis me tegime oma tiimiga?
